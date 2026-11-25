@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-2.0-only
-// Copyright (C) 2026 OmniNull — https://github.com/OmniNull/OmniWM
+// Copyright (C) 2026 Richard Ginzburg
 // Experimental, standalone CoreWiFi join proof of concept.
 // Build: ./build.sh
 

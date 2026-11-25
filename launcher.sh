@@ -1,6 +1,6 @@
 #!/bin/bash
 # SPDX-License-Identifier: GPL-2.0-only
-# Copyright (C) 2026 OmniNull — https://github.com/OmniNull/OmniWM
+# Copyright (C) 2026 Richard Ginzburg
 # Installed next to CoreWiFi Join.app by build.sh.
 set -euo pipefail
 root="$(cd "$(dirname "$0")" && pwd)"

@@ -106,6 +106,10 @@ afterward for the actual association; neither proves internet access.
 - Each selector is checked with `respondsToSelector:` first; missing API fails
   with `UnavailablePrivateAPI` instead of crashing.
 
+## Origin
+
+Research by Richard Ginzburg for [OmniWM](https://github.com/OmniNull/OmniWM).
+
 ## License
 
 Copyright (C) 2026 Richard Ginzburg. GPL-2.0-only.
